@@ -1,5 +1,3 @@
-# Excel-Project
-
 # Hi there, I'm Islam Seddiq!👋
 
 ## About Me 🚀
