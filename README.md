@@ -19,7 +19,7 @@ I'm a passionate data analyst with experience in SQL, Python, Excel, Power BI or
 
 ![Visualization]
 
-## Featured Project 💻
+## About Project 💻
 
 ### [E-commerce data analysis](https://docs.google.com/spreadsheets/d/1MJmdWKa5020n3n6QCVyu-T1JMciIo7B0/edit?usp=sharing&ouid=117195579203700660293&rtpof=true&sd=true)
 
