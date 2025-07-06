@@ -11,13 +11,10 @@ I'm a passionate data analyst with experience in SQL, Python, Excel, Power BI or
 
 ## My Skills 🧠
 
-![Excel]
-
-![Data Cleaning]
-
-![Pivot Table]
-
-![Visualization]
+- Excel
+- Data Cleaning
+- Pivot Table
+- Visualization
 
 ## About Project 💻
 
